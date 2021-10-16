@@ -1,0 +1,19 @@
+.pink {
+    background-color: #ffc0c8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#big-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#green-bold {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
